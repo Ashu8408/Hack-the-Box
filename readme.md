@@ -21,5 +21,9 @@ https://www.hackthebox.com/achievement/machine/2066617/472
 <h2><a href="https://www.hackthebox.com/achievement/machine/2066617/402" target="_blank">- [Appointment has been Pwned!]</a></h2>
 https://www.hackthebox.com/achievement/machine/2066617/402
 
-<!--<h2><a href="https://www.hackthebox.com/achievement/machine/2066617/" target="_blank">- [Sequel has been Pwned!]</a></h2>
-<!--https://www.hackthebox.com/achievement/machine/2066617-->
+<h2><a href="https://www.hackthebox.com/achievement/machine/2066617/403" target="_blank">- [Sequel has been Pwned!]</a></h2>
+https://www.hackthebox.com/achievement/machine/2066617/403
+
+
+<h2><a href="https://www.hackthebox.com/achievement/machine/2066617/404" target="_blank">- [Crocodile has been Pwned!]</a></h2>
+https://www.hackthebox.com/achievement/machine/2066617/404
