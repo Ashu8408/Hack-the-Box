@@ -33,3 +33,9 @@ https://www.hackthebox.com/achievement/machine/2066617/461
 
 <h2><a href="https://www.hackthebox.com/achievement/machine/2066617/489" target="_blank">- [Three has been Pwned!]</a></h2>
 https://www.hackthebox.com/achievement/machine/2066617/489
+
+
+<h1 align="left">Tier 2</h1>
+
+<h2><a href="https://www.hackthebox.com/achievement/machine/2066617/287" target="_blank">- [Archetype has been Pwned!]</a></h2>
+https://www.hackthebox.com/achievement/machine/2066617/287
