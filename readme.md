@@ -1,5 +1,10 @@
 <h1 align="center">Hack The Box</h1>
-<h1 align="left">Tier 0</h1>
+
+
+
+
+<h1 align="center">Starting Point</h1>
+<h2 align="left">Tier 0</h2>
 
 <h2><a href="https://www.hackthebox.com/achievement/machine/2066617/394" target="_blank">- [Meow has been Pwned!]</a></h2>
 https://www.hackthebox.com/achievement/machine/2066617/394
@@ -16,7 +21,7 @@ https://www.hackthebox.com/achievement/machine/2066617/395
 https://www.hackthebox.com/achievement/machine/2066617/472
 
 
-<h1 align="left">Tier 1</h1>
+<h2 align="left">Tier 1</h2>
 
 <h2><a href="https://www.hackthebox.com/achievement/machine/2066617/402" target="_blank">- [Appointment has been Pwned!]</a></h2>
 https://www.hackthebox.com/achievement/machine/2066617/402
@@ -35,7 +40,12 @@ https://www.hackthebox.com/achievement/machine/2066617/461
 https://www.hackthebox.com/achievement/machine/2066617/489
 
 
-<h1 align="left">Tier 2</h1>
+<h2 align="left">Tier 2</h2>
 
 <h2><a href="https://www.hackthebox.com/achievement/machine/2066617/287" target="_blank">- [Archetype has been Pwned!]</a></h2>
 https://www.hackthebox.com/achievement/machine/2066617/287
+
+
+
+<h1 align="center">Into the academy</h1>
+https://academy.hackthebox.com/achievement/1514571/15
